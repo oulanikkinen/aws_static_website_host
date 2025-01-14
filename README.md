@@ -1,6 +1,6 @@
-# Static Website Hosting
+# Static Website Hosting using Amazon services
 
-> Hosting a static HTTPS website using AWS
+> In this project I will go through step by step how host a static HTTPS website using AWS
 
 ## Cloud tools I used
 #### AWS
